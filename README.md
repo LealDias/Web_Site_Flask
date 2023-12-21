@@ -16,6 +16,9 @@ Web site for daily notes. This  system is composed of login and signup managemen
   <a href="#">
     <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="Python">
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bootstrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap">
+  </a>
 </p>
 
 <p align="center">
