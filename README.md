@@ -3,17 +3,26 @@ Web site for daily notes. This  system is composed of login and signup managemen
 
 # Technologies
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="Python">
+  </a>
+</p>
 
-
-<!-- HTML -->
-<i class="fa fa-html5"></i>
-
-<!-- CSS -->
-<i class="fa fa-css3"></i>
-
-<!-- JavaScript -->
-<i class="fa fa-js"></i>
+<p align="center">
+  <a href="#" class="badge bg-purple">
+    Bootstrap
+  </a>
+</p>
 
 
 
