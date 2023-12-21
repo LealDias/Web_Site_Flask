@@ -29,5 +29,13 @@ Web site for daily notes. This  system is composed of login and signup managemen
 
 # Outputs
 
+![image](https://github.com/LealDias/Web_Site_Flask/assets/70763447/ac538587-9144-4edb-baf2-5c9f334c9129)
+
+![image](https://github.com/LealDias/Web_Site_Flask/assets/70763447/d05f6d73-38e3-4517-9a57-bb9b711f0086)
+
+![Uploading image.png…]()
+
+
+
 
 
