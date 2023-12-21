@@ -5,6 +5,9 @@ Web site for daily notes. This  system is composed of login and signup managemen
 
 <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python"> <img src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png" alt="Flask"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap">
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <!-- HTML -->
 <i class="fa fa-html5"></i>
 
