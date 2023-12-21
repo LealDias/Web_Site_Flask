@@ -19,11 +19,8 @@ Web site for daily notes. This  system is composed of login and signup managemen
   <a href="#">
     <img src="https://img.shields.io/badge/Bootstrap-F7DF1E?style=for-the-badge&logo=bootstrap&logoColor=black" alt="Bootstrap">
   </a>
-</p>
-
-<p align="center">
-  <a href="#" class="badge bg-purple">
-    Bootstrap
+  <a href="#">
+    <img src="https://img.shields.io/badge/Flask-F7DF1E?style=for-the-badge&logo=flask&logoColor=black" alt="Flask">
   </a>
 </p>
 
