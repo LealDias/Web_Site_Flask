@@ -40,7 +40,10 @@ https://dashboard.render.com/
 
 ![image](https://github.com/LealDias/Web_Site_Flask/assets/70763447/d05f6d73-38e3-4517-9a57-bb9b711f0086)
 
-![Uploading image.png…]()
+![image](https://github.com/LealDias/Web_Site_Flask/assets/70763447/bb539a51-7f91-473e-bf16-4c2bb82796b0)
+
+
+
 
 
 
