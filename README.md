@@ -30,6 +30,9 @@ Check the link below:
 
 https://webflask-njfe.onrender.com
 
+For more info about Render check:
+
+https://dashboard.render.com/
 
 # Outputs
 
